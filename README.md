@@ -1,2 +1,2 @@
-# ANPR
-Automated Number Plate Detection and Vehicle Classification
+# Seal-detection
+Detect Seal or Stamp from documents

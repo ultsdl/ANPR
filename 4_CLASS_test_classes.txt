@@ -1,0 +1,6 @@
+numberplate
+car
+bus
+truck
+minitruck
+motorcycle
